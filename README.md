@@ -30,8 +30,8 @@ A real-time face landmark tracker built with Python, OpenCV and MediaPipe. It re
 ## Installation
 
 ```bash
-git clone https://github.com/William2716057/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/William2716057/faceMesh.git
+cd faceMesh
 pip install opencv-python mediapipe pyautogui
 ```
 
